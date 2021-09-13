@@ -1,0 +1,25 @@
+{
+    "name": "vanilla-forms",
+    "version": "1.0.1",
+    "description": "dependency free, reactive forms module for vanilla js",
+    "main": "./lib/cjs/index.js",
+    "module": "./lib/esm/index.js",
+    "files": [
+        "lib/"
+    ],
+    "types": "lib/esm",
+    "scripts": {
+        "build": "tsc -p . && tsc -p tsconfig-cjs.json"
+    },
+    "keywords": [
+        "Reactive Forms",
+        "JavaScript",
+        "Vanilla Js",
+        "observable forms",
+        "Form validitions",
+        "esModule and commonjs"
+    ],
+    "author": "Sfundo(sk) Mhlungu <mhlungusk@gmail.com> (https://sfundomhlungu.github.io/Portfolio/)",
+    "license": "MIT",
+    "homepage": "https://github.com/SfundoMhlungu/object-iter#readme"
+}
