@@ -217,3 +217,5 @@ if(signup.valid){
   
 
 # Visuals
+
+[vanillaforms.webm](https://user-images.githubusercontent.com/62028311/197367256-ee3df5f2-ca45-4023-a6ce-551f554a66ab.webm)
