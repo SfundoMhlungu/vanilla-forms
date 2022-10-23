@@ -53,7 +53,7 @@ Vanilla forms is inspired by Angular's ngForms and written entirely in typescrip
 
 ### Approach Taken
 
-At the center of Vanilla forms(VF) is the need to get an element or elements, identify it's type and attach relevant events, so I decided to utilize the role attribute e.g `role="v-username"` to identify elements VF can must work with, with the convention `v-`  denoting VF is handling the element..
+At the center of Vanilla forms(VF) is the need to get an element or elements, identify it's type and attach relevant events, so I decided to utilize the role attribute e.g `role="v-username"` to identify elements VF must work with, with the convention `v-`  denoting VF is handling the element..
 
 After getting the element I utilized native DOM functionality to determine the type of the element, and what events it can trigger and attach them.
 
